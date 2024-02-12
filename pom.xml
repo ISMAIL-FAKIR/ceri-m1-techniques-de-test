@@ -69,6 +69,10 @@
             </plugin>
 
         </plugins>
+        
+        <!-- test -->
+        
+        <testSourceDirectory>src/test/java</testSourceDirectory>
 
     </build>
 
